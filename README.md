@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis Project 😃
-Analyze , pre-processed, and visualize customer churn data to extract meaningful insights through data cleaning, vectorizing  and done visualization.
+Analyze , pre-processed, and visualize customer tweets data to extract meaningful insights through data cleaning, vectorizing  and done visualization.
 
 
 # Table of Contents
@@ -10,13 +10,12 @@ Analyze , pre-processed, and visualize customer churn data to extract meaningful
 # Project Highlights
 #### Dataset Cleaning: Handled missing values and ensured consistency.
 
-#### Dataset Pre-processing: Done filtering into KPI's like sales, Fat Outlets, and No of Items.
+#### Dataset Pre-processing: Done filtering and vectorization of tweets by making different reaction and feedback visuals.
 
 #### Data Visualization: Used Graphs to showcase churns and sentiments effectively.
 # Technologies Used
 
 Jupyter Notebook: For Making Dashboard and Visuals.
-Excel : For Data cleaning and Filtering.
 
 # Sources
 ### Dataset:
